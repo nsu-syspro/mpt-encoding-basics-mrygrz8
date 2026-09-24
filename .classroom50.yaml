@@ -1,0 +1,12 @@
+schema: "classroom50/repo-config/v1"
+classroom: "mpt"
+assignment: "encoding-basics"
+owner:
+  username: "mrygrz8"
+  id: 282778034
+  accepted_at: "2026-09-24T12:01:28Z"
+source:
+  owner: "nsu-syspro"
+  owner_id: 115493553
+  repo: "mpt-encoding-basics"
+  branch: "main"
